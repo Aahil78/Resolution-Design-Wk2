@@ -5,6 +5,7 @@
 CAD Link: [OnShape](https://cad.onshape.com/documents/6cd26fc8f5b9de4b5ec3e4ae/w/16207a7d0f76aa6a40c92948/e/62ba4bbce0340363a5f91683)
 
 ## Images:
+<img width="558" height="363" alt="image" src="https://github.com/user-attachments/assets/062886a1-db34-42a8-88f9-c81d0bc939ae" />
 
 ### Arduino Uno Holder:
 <img width="898" height="495" alt="image" src="https://github.com/user-attachments/assets/6dadb01f-81b3-4130-bd99-0caeb2712c37" />
